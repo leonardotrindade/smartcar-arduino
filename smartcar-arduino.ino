@@ -31,7 +31,7 @@
 #define LED_T A4
 #define BUZ A5
 
-#define DISTANCIA_LIMITE 20 // Limite de 20 cm de distância para parar os motores
+#define DISTANCIA_LIMITE 10 // Limite de 10 cm de distância para parar os motores
 
 MeetAndroid meetAndroid;
 Servo servo;
